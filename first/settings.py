@@ -25,7 +25,7 @@ SECRET_KEY = '=uviti2(&q=8oits9y%7s)2qvqtzk325h9!$+y7vt%ss&^=cyy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wellz.pythonanywhere.com']
 
 
 # Application definition
